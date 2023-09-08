@@ -1,6 +1,3 @@
 Hello world......
 
-
-
-
-TRhis is for testing project
+This created for getting knowledge on Git 
